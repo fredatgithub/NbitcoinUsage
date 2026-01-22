@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbitcoinUsage", "NbitcoinUsage\NbitcoinUsage.csproj", "{F7B0C3F3-648E-4B5F-B0F5-438661D1FAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoFeeCalculator", "CryptoFeeCalculator\CryptoFeeCalculator.csproj", "{ED1816C0-7249-4304-9FEB-578DE0DCDECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B0C3F3-648E-4B5F-B0F5-438661D1FAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B0C3F3-648E-4B5F-B0F5-438661D1FAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B0C3F3-648E-4B5F-B0F5-438661D1FAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B0C3F3-648E-4B5F-B0F5-438661D1FAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1816C0-7249-4304-9FEB-578DE0DCDECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1816C0-7249-4304-9FEB-578DE0DCDECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1816C0-7249-4304-9FEB-578DE0DCDECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1816C0-7249-4304-9FEB-578DE0DCDECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACE0244-7B42-4B7A-8A92-A3A3D035F559}
+	EndGlobalSection
+EndGlobal
